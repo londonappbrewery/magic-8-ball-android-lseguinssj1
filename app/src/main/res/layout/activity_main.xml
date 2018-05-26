@@ -30,6 +30,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
+        android:contentDescription="@string/ballImage"
         app:srcCompat="@drawable/ball1" />
 
     <TextView
